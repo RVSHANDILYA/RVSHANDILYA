@@ -1,4 +1,4 @@
-![MasterHead](https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*H4cHks1eEdrW7Zlz.gif)
 <h1 align="center">Hi 👋, I'm Raja Venkata Shandilya Puram</h1>
 <h3 align="center">A data analyst & a Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
