@@ -20,7 +20,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23BDB76B.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="MicrosoftSQLServer"/>
@@ -37,11 +37,11 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/c-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="c"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Github Pages-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Github Pages"/>
+  <img src="https://img.shields.io/badge/gitHub-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/github Pages-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Github Pages"/>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Microsoft-office-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="MSOffice"/>
-  <img src="https://img.shields.io/badge/Microsoft Excel%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/microsoft-office-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="MSOffice"/>
+  <img src="https://img.shields.io/badge/microsoft Excel-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Microsoft Excel"/>
   <img src="https://img.shields.io/badge/Power BI-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Apache Tomcat-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Apache Tomcat"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
