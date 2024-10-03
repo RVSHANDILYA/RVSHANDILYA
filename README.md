@@ -20,36 +20,35 @@
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23BDB76B.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MicrosoftSQLServer-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="MicrosoftSQLServer"/>
-  <img src="https://img.shields.io/badge/Postgres-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/MicrosoftSQLServer-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="Microsoft SQLServer"/>
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres"/>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/matplotlib-%23007ACC.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/seaborn-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="seaborn"/>
-  <img src="https://img.shields.io/badge/scikit-learn-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/django-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Anaconda-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/matplotlib-%234285F4.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/seaborn-%2394B9A7.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="c"/>
+  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/gitHub-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/github Pages-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Github Pages"/>
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/github%20Pages-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/microsoft-office-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="MSOffice"/>
-  <img src="https://img.shields.io/badge/microsoft Excel-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Power BI-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Apache Tomcat-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Apache Tomcat"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Office-%23D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Heroku-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Heroku"/>
-  <img src="https://img.shields.io/badge/Streamlit-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Canva-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Figma-%23BDB76B.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Figma"/>
-   
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
    
    
